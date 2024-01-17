@@ -1,0 +1,20 @@
+/* This is a comment */
+h2{
+    color:rgb(200, 118, 241);
+    font-family:Georgia;
+}
+h1{
+    color:rgb(143, 207, 118);
+    font-family:Helvetica;
+    border:1px solid rgb(239, 151, 173);
+    padding:50px;
+}
+body {
+    background-color:antiquewhite;
+}
+img {
+    border:1px solid rgb(239, 151, 173);
+    width:25%;
+    height:25%;
+    margin-left:510px;
+}
